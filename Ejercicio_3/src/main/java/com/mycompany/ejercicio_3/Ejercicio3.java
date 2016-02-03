@@ -15,7 +15,7 @@ public class Ejercicio3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Holis :v"); // TODO code application logic here
+        System.out.println("Holisdasd :v"); // TODO code application logic here
     }
     
 }
